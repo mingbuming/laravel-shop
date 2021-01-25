@@ -10,9 +10,9 @@ return [
 		],
 	],
 	'wechat' => [
-		'app_id' => 'wx53630dacab9d3d8b',
-		'mch_id' => '1231332902',
-		'key' => 'BJRuCYwpcDtrVPY4mC8aUmi9wDzZTsQc',
+		'app_id' => '',
+		'mch_id' => '',
+		'key' => '',
 		'cert_client' => resource_path('wechat_pay/apiclient_cert.pem'),
 		'cert_key' => resource_path('wechat_pay/apiclient_key.pem'),
 		'log' => [
